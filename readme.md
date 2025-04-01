@@ -29,7 +29,7 @@ npx drizzle-kit migrate
 
 This will create the necessary tables in your database.
 
-5. Run the server with `npm run dev` and open on `http://localhost:5174`
+5. Run the server with `npm run dev` and open on `http://localhost:5000`
 
 ## Endpoints
 
